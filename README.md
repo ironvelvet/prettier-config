@@ -1,8 +1,6 @@
 # `@ironvelvet/prettier-config`
 
-## Usage
-
-### Install
+## Install
 
 **npm**
 
@@ -16,7 +14,7 @@ npm install --save-dev @ironvelvet/prettier-config
 yarn add --dev @ironvelvet/prettier-config
 ```
 
-### Usage
+## Usage
 
 **package.json**
 
