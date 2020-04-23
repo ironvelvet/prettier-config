@@ -1,0 +1,9 @@
+{
+  "name": "@ironvelvet/prettier-config",
+  "version": "1.0.0",
+  "description": "Iron Velvet's unified prettier config.",
+  "main": "index.json",
+  "repository": "git@github.com:ironvelvet/prettier-config.git",
+  "author": "Vincent Camerano <vincent@ironvelvet.studio>",
+  "license": "MIT"
+}
